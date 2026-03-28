@@ -1,0 +1,12 @@
+{
+  "host": "203.0.113.50",
+  "user": "root",
+  "password": "SSH_ПАРОЛЬ_СЕРВЕРА",
+
+  "public_host": "s1.neo-trading.org",
+  "proxy_alias": "s1",
+
+  "monitoring_host": "203.0.113.10",
+  "monitoring_user": "root",
+  "monitoring_password": "SSH_ПАРОЛЬ_МОНИТОРИНГА"
+}
