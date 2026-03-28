@@ -1,0 +1,13 @@
+{
+  "host": "150.251.152.62",
+  "user": "root",
+  "password": "xxxx",
+
+  "public_host": "s3.yourdomain.org",
+  "proxy_alias": "s3",
+
+  "monitoring_host": "150.251.145.116",
+  "monitoring_user": "root",
+  "monitoring_password": "xxxx"
+}
+
